@@ -1,0 +1,321 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price
+ORD-1001,2025-01-01,Bluetooth Speaker,Electronics,West,1,63.45
+ORD-1002,2025-01-04,Bookshelf,Furniture,North,2,92.51
+ORD-1003,2025-01-06,27-inch Monitor,Electronics,North,1,232.77
+ORD-1004,2025-01-06,Wireless Mouse,Electronics,North,3,25.25
+ORD-1005,2025-01-09,USB-C Hub,Accessories,North,5,39.24
+ORD-1006,2025-01-09,Notebook Pack,Office Supplies,North,4,12.64
+ORD-1007,2025-01-10,Wireless Mouse,Electronics,South,3,25.64
+ORD-1008,2025-01-12,Mechanical Keyboard,Electronics,South,1,76.31
+ORD-1009,2025-01-14,Wireless Mouse,Electronics,West,8,23.76
+ORD-1010,2025-01-17,Gel Pen Set,Office Supplies,South,8,8.34
+ORD-1011,2025-01-17,Gel Pen Set,Office Supplies,West,2,9.34
+ORD-1012,2025-01-18,USB-C Hub,Accessories,West,4,38.66
+ORD-1013,2025-01-20,Mechanical Keyboard,Electronics,South,5,81.36
+ORD-1014,2025-01-20,Gel Pen Set,Office Supplies,North,6,9.52
+ORD-1015,2025-01-20,Standing Desk,Furniture,West,1,330.56
+ORD-1016,2025-01-23,Wireless Mouse,Electronics,West,4,24.46
+ORD-1017,2025-01-24,Gel Pen Set,Office Supplies,North,7,8.51
+ORD-1018,2025-01-26,Bluetooth Speaker,Electronics,South,4,64.2
+ORD-1019,2025-01-27,Mechanical Keyboard,Electronics,West,1,81.96
+ORD-1020,2025-01-30,Mechanical Keyboard,Electronics,South,3,79.53
+ORD-1021,2025-02-02,Desk Organizer,Office Supplies,South,2,20.41
+ORD-1022,2025-02-03,Mechanical Keyboard,Electronics,South,3,83.91
+ORD-1023,2025-02-04,Desk Organizer,Office Supplies,South,6,22.57
+ORD-1024,2025-02-04,USB-C Hub,Accessories,East,1,40.94
+ORD-1025,2025-02-05,Standing Desk,Furniture,West,1,347.95
+ORD-1026,2025-02-07,Mechanical Keyboard,Electronics,West,3,82.37
+ORD-1027,2025-02-07,Ergonomic Chair,Furniture,West,1,175.63
+ORD-1028,2025-02-09,Desk Organizer,Office Supplies,East,6,20.25
+ORD-1029,2025-02-09,Gel Pen Set,Office Supplies,North,1,8.74
+ORD-1030,2025-02-09,Wireless Mouse,Electronics,South,2,26.25
+ORD-1031,2025-02-09,Mechanical Keyboard,Electronics,East,3,79.03
+ORD-1032,2025-02-13,Bookshelf,Furniture,East,4,104.37
+ORD-1033,2025-02-17,Gel Pen Set,Office Supplies,South,1,8.92
+ORD-1034,2025-02-17,Wireless Mouse,Electronics,North,2,24.37
+ORD-1035,2025-02-18,Notebook Pack,Office Supplies,West,7,11.92
+ORD-1036,2025-02-18,Notebook Pack,Office Supplies,West,2,13.09
+ORD-1037,2025-02-21,27-inch Monitor,Electronics,North,2,203.26
+ORD-1038,2025-02-23,27-inch Monitor,Electronics,East,1,228.75
+ORD-1039,2025-02-24,Gel Pen Set,Office Supplies,North,8,8.36
+ORD-1040,2025-02-27,Notebook Pack,Office Supplies,North,4,12.14
+ORD-1041,2025-02-27,Bluetooth Speaker,Electronics,South,5,58.79
+ORD-1042,2025-02-28,Gel Pen Set,Office Supplies,West,1,8.59
+ORD-1043,2025-03-01,Mechanical Keyboard,Electronics,West,5,75.58
+ORD-1044,2025-03-02,Desk Organizer,Office Supplies,West,8,21.99
+ORD-1045,2025-03-03,Ergonomic Chair,Furniture,West,1,188.28
+ORD-1046,2025-03-06,Laptop Backpack,Accessories,South,3,53.07
+ORD-1047,2025-03-06,Desk Organizer,Office Supplies,South,8,23.67
+ORD-1048,2025-03-06,Wireless Mouse,Electronics,South,7,25.51
+ORD-1049,2025-03-09,USB-C Hub,Accessories,East,5,39.2
+ORD-1050,2025-03-09,USB-C Hub,Accessories,West,2,38.32
+ORD-1051,2025-03-11,Wireless Mouse,Electronics,West,2,25.33
+ORD-1052,2025-03-11,Notebook Pack,Office Supplies,West,3,11.61
+ORD-1053,2025-03-12,Gel Pen Set,Office Supplies,North,7,9.29
+ORD-1054,2025-03-15,Bookshelf,Furniture,North,3,97.2
+ORD-1055,2025-03-16,Wireless Mouse,Electronics,South,1,22.99
+ORD-1056,2025-03-17,Gel Pen Set,Office Supplies,West,1,8.85
+ORD-1057,2025-03-19,Notebook Pack,Office Supplies,East,4,12.54
+ORD-1058,2025-03-21,27-inch Monitor,Electronics,North,2,226.28
+ORD-1059,2025-03-22,Desk Organizer,Office Supplies,East,8,22.39
+ORD-1060,2025-03-23,USB-C Hub,Accessories,South,3,41.59
+ORD-1061,2025-03-23,27-inch Monitor,Electronics,East,2,228.87
+ORD-1062,2025-03-26,USB-C Hub,Accessories,West,4,38.81
+ORD-1063,2025-03-28,Desk Organizer,Office Supplies,South,1,21.85
+ORD-1064,2025-03-28,Mechanical Keyboard,Electronics,East,4,84.31
+ORD-1065,2025-03-29,Notebook Pack,Office Supplies,West,3,13.09
+ORD-1066,2025-03-29,Standing Desk,Furniture,South,1,329.65
+ORD-1067,2025-03-29,Bookshelf,Furniture,North,4,98.78
+ORD-1068,2025-03-29,Notebook Pack,Office Supplies,North,2,13.46
+ORD-1069,2025-03-30,Notebook Pack,Office Supplies,West,7,13.14
+ORD-1070,2025-04-06,Desk Organizer,Office Supplies,West,8,22.4
+ORD-1071,2025-04-09,Gel Pen Set,Office Supplies,West,2,9.54
+ORD-1072,2025-04-10,Wireless Mouse,Electronics,North,4,24.96
+ORD-1073,2025-04-10,Gel Pen Set,Office Supplies,East,8,9.48
+ORD-1074,2025-04-11,Desk Organizer,Office Supplies,East,2,20.46
+ORD-1075,2025-04-11,Bookshelf,Furniture,West,1,94.23
+ORD-1076,2025-04-14,USB-C Hub,Accessories,South,3,39.83
+ORD-1077,2025-04-16,Wireless Mouse,Electronics,West,3,23.7
+ORD-1078,2025-04-18,Notebook Pack,Office Supplies,South,3,13.0
+ORD-1079,2025-04-19,Wireless Mouse,Electronics,West,3,24.66
+ORD-1080,2025-04-23,Wireless Mouse,Electronics,West,3,25.49
+ORD-1081,2025-04-30,Desk Organizer,Office Supplies,North,3,21.57
+ORD-1082,2025-05-03,Gel Pen Set,Office Supplies,West,3,8.71
+ORD-1083,2025-05-03,Notebook Pack,Office Supplies,South,1,11.82
+ORD-1084,2025-05-04,Gel Pen Set,Office Supplies,South,1,9.32
+ORD-1085,2025-05-04,Mechanical Keyboard,Electronics,West,3,75.11
+ORD-1086,2025-05-04,Gel Pen Set,Office Supplies,East,4,8.96
+ORD-1087,2025-05-06,Laptop Backpack,Accessories,North,5,53.84
+ORD-1088,2025-05-06,USB-C Hub,Accessories,East,3,40.05
+ORD-1089,2025-05-06,Laptop Backpack,Accessories,West,2,52.04
+ORD-1090,2025-05-07,Gel Pen Set,Office Supplies,East,6,8.43
+ORD-1091,2025-05-07,Standing Desk,Furniture,East,2,374.99
+ORD-1092,2025-05-09,Gel Pen Set,Office Supplies,North,8,8.37
+ORD-1093,2025-05-09,Gel Pen Set,Office Supplies,South,8,8.82
+ORD-1094,2025-05-11,Gel Pen Set,Office Supplies,South,7,9.05
+ORD-1095,2025-05-17,Notebook Pack,Office Supplies,North,5,11.87
+ORD-1096,2025-05-17,Gel Pen Set,Office Supplies,South,4,9.26
+ORD-1097,2025-05-20,Wireless Mouse,Electronics,West,7,25.01
+ORD-1098,2025-05-23,Wireless Mouse,Electronics,East,4,24.31
+ORD-1099,2025-05-28,Notebook Pack,Office Supplies,West,6,12.36
+ORD-1100,2025-05-28,Desk Organizer,Office Supplies,North,2,22.93
+ORD-1101,2025-05-29,Gel Pen Set,Office Supplies,West,8,8.56
+ORD-1102,2025-05-29,Notebook Pack,Office Supplies,East,5,11.91
+ORD-1103,2025-05-29,Desk Organizer,Office Supplies,East,4,21.54
+ORD-1104,2025-05-29,Mechanical Keyboard,Electronics,North,3,81.76
+ORD-1105,2025-06-02,Desk Organizer,Office Supplies,South,3,23.68
+ORD-1106,2025-06-04,Gel Pen Set,Office Supplies,South,4,8.93
+ORD-1107,2025-06-06,Bluetooth Speaker,Electronics,West,1,64.28
+ORD-1108,2025-06-12,Standing Desk,Furniture,North,1,357.86
+ORD-1109,2025-06-13,Standing Desk,Furniture,North,1,352.18
+ORD-1110,2025-06-14,Desk Organizer,Office Supplies,South,1,21.65
+ORD-1111,2025-06-15,Mechanical Keyboard,Electronics,West,5,74.11
+ORD-1112,2025-06-15,Standing Desk,Furniture,North,1,345.53
+ORD-1113,2025-06-15,Notebook Pack,Office Supplies,South,4,12.64
+ORD-1114,2025-06-18,Wireless Mouse,Electronics,West,3,24.62
+ORD-1115,2025-06-18,Mechanical Keyboard,Electronics,East,5,79.59
+ORD-1116,2025-06-19,Wireless Mouse,Electronics,West,7,26.76
+ORD-1117,2025-06-24,Desk Organizer,Office Supplies,West,7,22.31
+ORD-1118,2025-06-24,USB-C Hub,Accessories,West,4,36.13
+ORD-1119,2025-06-26,Mechanical Keyboard,Electronics,East,3,79.86
+ORD-1120,2025-06-28,Desk Organizer,Office Supplies,South,6,20.7
+ORD-1121,2025-06-28,Laptop Backpack,Accessories,East,3,49.91
+ORD-1122,2025-07-01,Notebook Pack,Office Supplies,North,2,11.7
+ORD-1123,2025-07-02,Laptop Backpack,Accessories,South,2,57.88
+ORD-1124,2025-07-04,Wireless Mouse,Electronics,West,7,24.78
+ORD-1125,2025-07-06,Notebook Pack,Office Supplies,South,6,12.85
+ORD-1126,2025-07-08,Desk Organizer,Office Supplies,West,3,23.35
+ORD-1127,2025-07-11,Desk Organizer,Office Supplies,West,5,21.37
+ORD-1128,2025-07-12,Notebook Pack,Office Supplies,West,2,11.75
+ORD-1129,2025-07-13,Wireless Mouse,Electronics,North,3,25.11
+ORD-1130,2025-07-14,Mechanical Keyboard,Electronics,West,4,79.77
+ORD-1131,2025-07-17,USB-C Hub,Accessories,West,5,41.97
+ORD-1132,2025-07-22,Mechanical Keyboard,Electronics,West,2,79.03
+ORD-1133,2025-07-23,Notebook Pack,Office Supplies,East,6,12.31
+ORD-1134,2025-07-24,Notebook Pack,Office Supplies,South,1,11.53
+ORD-1135,2025-07-25,27-inch Monitor,Electronics,North,1,221.97
+ORD-1136,2025-07-27,Notebook Pack,Office Supplies,East,7,12.14
+ORD-1137,2025-07-29,Notebook Pack,Office Supplies,West,5,11.51
+ORD-1138,2025-07-30,27-inch Monitor,Electronics,North,1,216.29
+ORD-1139,2025-07-30,Notebook Pack,Office Supplies,East,2,13.08
+ORD-1140,2025-07-30,Wireless Mouse,Electronics,South,8,26.88
+ORD-1141,2025-07-31,Desk Organizer,Office Supplies,West,7,22.92
+ORD-1142,2025-08-01,Desk Organizer,Office Supplies,East,3,22.38
+ORD-1143,2025-08-02,Desk Organizer,Office Supplies,West,3,20.81
+ORD-1144,2025-08-06,Notebook Pack,Office Supplies,West,8,12.12
+ORD-1145,2025-08-07,Bluetooth Speaker,Electronics,West,4,63.33
+ORD-1146,2025-08-11,Desk Organizer,Office Supplies,South,6,23.24
+ORD-1147,2025-08-13,Bluetooth Speaker,Electronics,North,2,59.11
+ORD-1148,2025-08-14,Desk Organizer,Office Supplies,South,7,21.09
+ORD-1149,2025-08-14,Mechanical Keyboard,Electronics,West,5,85.22
+ORD-1150,2025-08-20,Bookshelf,Furniture,West,5,97.07
+ORD-1151,2025-08-21,Wireless Mouse,Electronics,East,8,26.9
+ORD-1152,2025-08-22,Wireless Mouse,Electronics,East,5,26.98
+ORD-1153,2025-08-23,Gel Pen Set,Office Supplies,West,8,8.54
+ORD-1154,2025-08-23,Desk Organizer,Office Supplies,South,5,21.04
+ORD-1155,2025-08-26,Gel Pen Set,Office Supplies,South,8,8.51
+ORD-1156,2025-08-26,Gel Pen Set,Office Supplies,South,2,9.58
+ORD-1157,2025-08-27,Wireless Mouse,Electronics,West,4,26.68
+ORD-1158,2025-08-27,Desk Organizer,Office Supplies,West,2,22.33
+ORD-1159,2025-08-27,Desk Organizer,Office Supplies,South,2,23.67
+ORD-1160,2025-08-28,Mechanical Keyboard,Electronics,South,3,82.8
+ORD-1161,2025-08-29,Mechanical Keyboard,Electronics,West,1,74.36
+ORD-1162,2025-08-29,Mechanical Keyboard,Electronics,East,3,74.45
+ORD-1163,2025-08-30,Gel Pen Set,Office Supplies,West,7,8.55
+ORD-1164,2025-08-31,27-inch Monitor,Electronics,East,1,221.28
+ORD-1165,2025-09-02,Gel Pen Set,Office Supplies,West,6,8.93
+ORD-1166,2025-09-03,Mechanical Keyboard,Electronics,East,3,78.72
+ORD-1167,2025-09-03,Mechanical Keyboard,Electronics,South,4,84.42
+ORD-1168,2025-09-05,Laptop Backpack,Accessories,North,5,52.44
+ORD-1169,2025-09-07,Gel Pen Set,Office Supplies,West,2,8.42
+ORD-1170,2025-09-07,Notebook Pack,Office Supplies,North,8,12.05
+ORD-1171,2025-09-08,Laptop Backpack,Accessories,West,1,56.37
+ORD-1172,2025-09-09,Gel Pen Set,Office Supplies,North,8,9.35
+ORD-1173,2025-09-11,Standing Desk,Furniture,West,2,341.54
+ORD-1174,2025-09-11,Bluetooth Speaker,Electronics,West,1,58.42
+ORD-1175,2025-09-11,Notebook Pack,Office Supplies,East,8,12.57
+ORD-1176,2025-09-12,Bluetooth Speaker,Electronics,West,5,64.14
+ORD-1177,2025-09-14,Gel Pen Set,Office Supplies,South,4,8.45
+ORD-1178,2025-09-14,Desk Organizer,Office Supplies,East,7,20.57
+ORD-1179,2025-09-15,Gel Pen Set,Office Supplies,North,2,8.73
+ORD-1180,2025-09-16,Wireless Mouse,Electronics,West,2,23.53
+ORD-1181,2025-09-16,27-inch Monitor,Electronics,East,1,207.3
+ORD-1182,2025-09-16,USB-C Hub,Accessories,West,4,38.31
+ORD-1183,2025-09-16,Wireless Mouse,Electronics,South,5,25.02
+ORD-1184,2025-09-19,USB-C Hub,Accessories,East,1,40.13
+ORD-1185,2025-09-20,Bluetooth Speaker,Electronics,South,4,62.4
+ORD-1186,2025-09-20,Gel Pen Set,Office Supplies,East,6,8.37
+ORD-1187,2025-09-20,Notebook Pack,Office Supplies,South,7,12.14
+ORD-1188,2025-09-22,Mechanical Keyboard,Electronics,East,1,84.11
+ORD-1189,2025-09-23,Ergonomic Chair,Furniture,West,2,183.03
+ORD-1190,2025-09-23,Mechanical Keyboard,Electronics,North,2,80.27
+ORD-1191,2025-09-25,Notebook Pack,Office Supplies,West,8,13.36
+ORD-1192,2025-09-25,Wireless Mouse,Electronics,East,2,25.05
+ORD-1193,2025-09-25,Laptop Backpack,Accessories,East,1,51.39
+ORD-1194,2025-09-28,Mechanical Keyboard,Electronics,South,2,75.38
+ORD-1195,2025-09-29,Gel Pen Set,Office Supplies,East,3,9.33
+ORD-1196,2025-10-02,Ergonomic Chair,Furniture,West,1,192.62
+ORD-1197,2025-10-02,Gel Pen Set,Office Supplies,East,7,9.25
+ORD-1198,2025-10-04,USB-C Hub,Accessories,North,1,39.95
+ORD-1199,2025-10-05,Gel Pen Set,Office Supplies,North,4,8.32
+ORD-1200,2025-10-06,USB-C Hub,Accessories,West,2,36.07
+ORD-1201,2025-10-06,27-inch Monitor,Electronics,South,1,230.32
+ORD-1202,2025-10-07,Wireless Mouse,Electronics,South,8,24.74
+ORD-1203,2025-10-07,Notebook Pack,Office Supplies,North,5,13.49
+ORD-1204,2025-10-07,Desk Organizer,Office Supplies,West,6,21.3
+ORD-1205,2025-10-09,27-inch Monitor,Electronics,West,1,225.12
+ORD-1206,2025-10-09,Notebook Pack,Office Supplies,North,7,13.15
+ORD-1207,2025-10-11,Wireless Mouse,Electronics,South,3,23.7
+ORD-1208,2025-10-12,27-inch Monitor,Electronics,North,2,227.66
+ORD-1209,2025-10-14,Wireless Mouse,Electronics,South,6,24.33
+ORD-1210,2025-10-16,Laptop Backpack,Accessories,South,5,55.02
+ORD-1211,2025-10-17,Bluetooth Speaker,Electronics,West,5,64.09
+ORD-1212,2025-10-19,Bluetooth Speaker,Electronics,West,1,58.93
+ORD-1213,2025-10-20,Notebook Pack,Office Supplies,West,3,12.02
+ORD-1214,2025-10-20,Standing Desk,Furniture,West,2,343.58
+ORD-1215,2025-10-21,Gel Pen Set,Office Supplies,North,6,8.56
+ORD-1216,2025-10-22,Gel Pen Set,Office Supplies,North,7,9.45
+ORD-1217,2025-10-22,Bluetooth Speaker,Electronics,South,1,56.22
+ORD-1218,2025-10-24,Mechanical Keyboard,Electronics,South,2,83.67
+ORD-1219,2025-10-24,Notebook Pack,Office Supplies,North,7,12.01
+ORD-1220,2025-10-24,Bluetooth Speaker,Electronics,East,2,59.78
+ORD-1221,2025-10-25,Notebook Pack,Office Supplies,East,2,13.28
+ORD-1222,2025-10-27,Gel Pen Set,Office Supplies,East,2,9.6
+ORD-1223,2025-10-27,27-inch Monitor,Electronics,North,1,221.2
+ORD-1224,2025-10-30,Desk Organizer,Office Supplies,East,7,21.11
+ORD-1225,2025-11-01,Notebook Pack,Office Supplies,West,5,12.6
+ORD-1226,2025-11-02,Notebook Pack,Office Supplies,East,4,13.48
+ORD-1227,2025-11-03,Wireless Mouse,Electronics,South,8,26.41
+ORD-1228,2025-11-04,Notebook Pack,Office Supplies,North,8,12.14
+ORD-1229,2025-11-04,Bookshelf,Furniture,South,3,95.33
+ORD-1230,2025-11-05,Desk Organizer,Office Supplies,North,4,22.18
+ORD-1231,2025-11-05,Bluetooth Speaker,Electronics,West,1,60.65
+ORD-1232,2025-11-05,Bluetooth Speaker,Electronics,North,3,57.39
+ORD-1233,2025-11-06,Mechanical Keyboard,Electronics,West,5,83.32
+ORD-1234,2025-11-07,Bluetooth Speaker,Electronics,South,3,62.39
+ORD-1235,2025-11-08,Laptop Backpack,Accessories,North,3,53.7
+ORD-1236,2025-11-08,Bookshelf,Furniture,South,2,93.1
+ORD-1237,2025-11-08,Notebook Pack,Office Supplies,East,7,13.0
+ORD-1238,2025-11-09,Notebook Pack,Office Supplies,East,7,11.84
+ORD-1239,2025-11-10,Mechanical Keyboard,Electronics,West,4,81.27
+ORD-1240,2025-11-10,Notebook Pack,Office Supplies,East,4,12.79
+ORD-1241,2025-11-10,Wireless Mouse,Electronics,South,5,23.26
+ORD-1242,2025-11-10,Gel Pen Set,Office Supplies,North,5,9.05
+ORD-1243,2025-11-11,Laptop Backpack,Accessories,South,1,53.47
+ORD-1244,2025-11-12,Wireless Mouse,Electronics,East,5,23.82
+ORD-1245,2025-11-12,Desk Organizer,Office Supplies,North,1,23.47
+ORD-1246,2025-11-13,Desk Organizer,Office Supplies,South,6,21.86
+ORD-1247,2025-11-13,27-inch Monitor,Electronics,East,2,234.17
+ORD-1248,2025-11-13,Gel Pen Set,Office Supplies,East,4,9.33
+ORD-1249,2025-11-13,Laptop Backpack,Accessories,West,2,51.48
+ORD-1250,2025-11-13,Desk Organizer,Office Supplies,West,2,21.73
+ORD-1251,2025-11-13,Laptop Backpack,Accessories,West,1,52.45
+ORD-1252,2025-11-14,Wireless Mouse,Electronics,North,1,23.19
+ORD-1253,2025-11-14,Gel Pen Set,Office Supplies,North,7,8.99
+ORD-1254,2025-11-14,27-inch Monitor,Electronics,East,2,207.21
+ORD-1255,2025-11-16,Bluetooth Speaker,Electronics,East,3,60.61
+ORD-1256,2025-11-18,Mechanical Keyboard,Electronics,West,3,85.2
+ORD-1257,2025-11-18,Mechanical Keyboard,Electronics,North,4,84.74
+ORD-1258,2025-11-19,Notebook Pack,Office Supplies,North,2,12.81
+ORD-1259,2025-11-19,Desk Organizer,Office Supplies,South,8,22.4
+ORD-1260,2025-11-20,Gel Pen Set,Office Supplies,South,7,9.64
+ORD-1261,2025-11-21,27-inch Monitor,Electronics,East,1,207.63
+ORD-1262,2025-11-22,Laptop Backpack,Accessories,West,5,49.89
+ORD-1263,2025-11-22,USB-C Hub,Accessories,West,2,38.18
+ORD-1264,2025-11-23,Bluetooth Speaker,Electronics,South,1,56.88
+ORD-1265,2025-11-23,Standing Desk,Furniture,West,2,367.8
+ORD-1266,2025-11-24,USB-C Hub,Accessories,North,4,38.33
+ORD-1267,2025-11-24,Mechanical Keyboard,Electronics,South,5,81.4
+ORD-1268,2025-11-24,Gel Pen Set,Office Supplies,West,2,8.68
+ORD-1269,2025-11-24,Bluetooth Speaker,Electronics,West,4,56.81
+ORD-1270,2025-11-24,Mechanical Keyboard,Electronics,South,5,84.76
+ORD-1271,2025-11-26,Standing Desk,Furniture,South,2,366.77
+ORD-1272,2025-11-27,Bookshelf,Furniture,South,2,93.28
+ORD-1273,2025-11-27,Bookshelf,Furniture,East,3,97.37
+ORD-1274,2025-11-29,Notebook Pack,Office Supplies,North,8,12.99
+ORD-1275,2025-11-29,Wireless Mouse,Electronics,North,4,26.97
+ORD-1276,2025-11-30,Mechanical Keyboard,Electronics,North,1,85.69
+ORD-1277,2025-12-01,Wireless Mouse,Electronics,North,8,25.06
+ORD-1278,2025-12-03,Notebook Pack,Office Supplies,West,4,13.4
+ORD-1279,2025-12-03,USB-C Hub,Accessories,South,3,40.71
+ORD-1280,2025-12-04,Gel Pen Set,Office Supplies,South,1,8.38
+ORD-1281,2025-12-04,Notebook Pack,Office Supplies,East,8,12.13
+ORD-1282,2025-12-06,Bluetooth Speaker,Electronics,East,4,56.87
+ORD-1283,2025-12-07,Notebook Pack,Office Supplies,East,1,12.84
+ORD-1284,2025-12-07,Mechanical Keyboard,Electronics,South,3,83.94
+ORD-1285,2025-12-07,USB-C Hub,Accessories,East,5,36.47
+ORD-1286,2025-12-07,USB-C Hub,Accessories,East,5,37.53
+ORD-1287,2025-12-08,Standing Desk,Furniture,South,2,365.83
+ORD-1288,2025-12-08,USB-C Hub,Accessories,South,3,38.33
+ORD-1289,2025-12-11,Ergonomic Chair,Furniture,North,2,185.53
+ORD-1290,2025-12-12,Notebook Pack,Office Supplies,West,4,13.37
+ORD-1291,2025-12-13,Desk Organizer,Office Supplies,West,5,21.77
+ORD-1292,2025-12-13,Notebook Pack,Office Supplies,South,1,13.2
+ORD-1293,2025-12-13,Gel Pen Set,Office Supplies,West,8,8.39
+ORD-1294,2025-12-15,27-inch Monitor,Electronics,West,2,215.85
+ORD-1295,2025-12-15,USB-C Hub,Accessories,East,1,40.12
+ORD-1296,2025-12-15,Laptop Backpack,Accessories,East,1,56.48
+ORD-1297,2025-12-16,USB-C Hub,Accessories,West,5,38.85
+ORD-1298,2025-12-16,Notebook Pack,Office Supplies,North,7,12.42
+ORD-1299,2025-12-17,USB-C Hub,Accessories,East,2,37.53
+ORD-1300,2025-12-18,Gel Pen Set,Office Supplies,South,8,8.67
+ORD-1301,2025-12-18,Laptop Backpack,Accessories,South,1,57.94
+ORD-1302,2025-12-19,USB-C Hub,Accessories,East,5,39.91
+ORD-1303,2025-12-19,Laptop Backpack,Accessories,South,3,53.95
+ORD-1304,2025-12-20,Desk Organizer,Office Supplies,North,6,21.57
+ORD-1305,2025-12-21,Notebook Pack,Office Supplies,South,7,11.74
+ORD-1306,2025-12-22,Desk Organizer,Office Supplies,South,3,20.42
+ORD-1307,2025-12-22,Notebook Pack,Office Supplies,East,2,12.79
+ORD-1308,2025-12-22,Wireless Mouse,Electronics,North,5,25.81
+ORD-1309,2025-12-23,Bookshelf,Furniture,South,5,93.87
+ORD-1310,2025-12-23,Wireless Mouse,Electronics,West,2,26.0
+ORD-1311,2025-12-25,Ergonomic Chair,Furniture,West,1,178.49
+ORD-1312,2025-12-25,Wireless Mouse,Electronics,North,6,26.96
+ORD-1313,2025-12-25,27-inch Monitor,Electronics,West,1,203.69
+ORD-1314,2025-12-25,Wireless Mouse,Electronics,West,6,26.83
+ORD-1315,2025-12-25,Notebook Pack,Office Supplies,North,2,12.05
+ORD-1316,2025-12-26,Notebook Pack,Office Supplies,North,1,12.83
+ORD-1317,2025-12-26,Desk Organizer,Office Supplies,South,1,21.99
+ORD-1318,2025-12-30,Mechanical Keyboard,Electronics,East,3,82.57
+ORD-1319,2025-12-30,Notebook Pack,Office Supplies,South,8,13.19
+ORD-1320,2025-12-30,Notebook Pack,Office Supplies,South,3,13.26
